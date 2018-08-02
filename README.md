@@ -1,4 +1,4 @@
-# House-Prediction-Problem-in-python
+# House-Prediction-Problem-in-Machine-Learning
 This project predicts the Housing Price based on 80 features and is developed using Linear Regression in Machine Learning
 
 DATASET DESCRIPTION:
