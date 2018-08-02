@@ -17,3 +17,5 @@ FOR FILE model using sklearn:
 In this file the traing of model is done using the function of sklearn i.e. sklearn.linear_model.LinearRegression()
 
 Just download the .ipynb file for step by step traing of model as well as for predicting on given inputs.
+
+requirements.txt file contains all the required libraries to run the python script's codes.
